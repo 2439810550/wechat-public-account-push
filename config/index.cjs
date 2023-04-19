@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx87c6927317e395f1',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'c804cd0e9eff96f1b1ade955bbc0f504',
 
   PROVINCE: '河南',
   CITY: '南阳',
@@ -51,13 +51,13 @@ USE_PASSAGE: 'push-plus',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '0001',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ocawh5ve3n4oAOPZussvC4mzgMjI',
     }
   ],
 
